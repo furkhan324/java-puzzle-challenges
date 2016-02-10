@@ -11,7 +11,7 @@ public class ArrayExamples {
 		}
 		}
 	public boolean isValid1(String n){
-		//commit1 //commit2 
+		//commit1 //commit2 //commit 3
 		try{
 			int numberOfMultiplications = Integer.parseInt(n);
 			return true;
