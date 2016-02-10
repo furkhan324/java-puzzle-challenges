@@ -1,5 +1,5 @@
 public class BattleShipSolver2 {
-	//0 is water
+	//0 is water/
 	int[][] array1=new int[20][20];
 	int[][] array2=new int[20][20];
 	int[][] array3=new int[20][20];
